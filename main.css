@@ -1,0 +1,106 @@
+.jumbotron{
+  background-image:url("jumbotron_background.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  position:relative;
+	border-bottom-style:solid;
+	border-bottom-width:5px;
+	border-bottom-color:#9900FF;
+}
+body{
+  background-image:url("background.jpg");
+}
+.jumbotron a{
+  color:#9900FF;
+  font-size:60px;
+  font-family:FangSong;
+  font-weight:bold;
+  position:relative;
+  bottom:60px;
+  left:150px;
+}
+.jumbotron h3{
+	color:#9900FF;
+  font-size:25px;  
+  font-family:Comic Sans MS;
+  position:relative;
+	bottom:80px;
+  left:150px;
+}
+.jumbotron h5{
+	color:#9900FF;
+  font-size:25px;  
+  font-family:FangSong;
+  font-weight:bold;
+  position:relative;
+	bottom:80px;
+  left:150px;
+}
+.link_list a{
+	color:#9900FF;
+  font-size:25px;  
+  font-family:FangSong;
+  font-weight:bold;
+}
+body{
+  background-image:url("background.jpg");
+
+}
+.introduction{
+  color:#9900FF;
+  position:relative;
+  bottom:20px;
+}
+.introduction h1{
+  font-size:35px;  
+  font-family:FangSong;
+  font-weight:bold;
+}
+.introduction h2{
+  font-size:25px;  
+  font-family:FangSong;
+  font-weight:bold;
+}
+.introduction a{
+  color:#9900FF;
+  font-size:20px;  
+  font-family:FangSong;
+  font-weight:bold;
+}
+.introduction p{
+  font-size:20px;  
+  font-family:FangSong;
+  font-weight:bold;
+}
+.introduction table{
+  font-size:25px;  
+  font-family:FangSong;
+  font-weight:bold;
+  text-align:center;
+
+}
+.introduction h3{
+  font-size:15px;  
+  font-family:FangSong;
+  font-weight:bold;
+}
+.bottom {
+  color:#9900FF;
+  font-size:20px;  
+  font-family:Comic Sans MS;
+  font-weight:bold;
+  text-align:center;
+  border-top-style:solid;
+  border-top-width:5px;
+  border-top-color:#9900FF;
+}
+.bottom p{
+  color:#9900FF;
+  font-size:20px;  
+  font-family:FangSong;
+  font-weight:bold;
+  text-align:center;
+}
+
+
